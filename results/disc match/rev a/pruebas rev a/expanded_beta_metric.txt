@@ -1,0 +1,101 @@
+input;True;Predicted
+Sthf;null;null
+Phase II;null;Phase II 
+User;null;New User Help
+float;null;Swim
+planetName;planetName;planetName
+unit;null;Whole
+father;father;father
+image;image;image
+anthem;null;Warrior s Anthem
+insignia;insignia;insignia
+yard;null;Yard
+gender;gender;gender
+mother;mother;mother
+planet;planet;planet
+pages;comicPages;pages
+USS Yorkshire (prototype);USS Yorkshire;USS Yorkshire  prototype 
+Terrorism;Terrorism;Terrorism
+Saint Petersburg State University;Saint Petersburg State University;Saint Petersburg State University
+Sydney Caldwell;null;Sydney
+Star Trek: UFS Arcadia;null;Star Trek
+Pro'met class;null;Class A
+Decoy drone;null;Drone
+USS Toronto (NCC-71905);null;USS Toronto
+Ch'Tong;null;Tong
+USS Valley Forge (NCC-07);null;USS Valley Forge  NCC 1732 
+Kassadae;null;null
+Endeavour;Endeavour;Endeavour
+2238;2238;2238
+Uhn'tara;null;K tara
+T'Ruveh;null;null
+Duties and Responsibilities;null;A and A officer
+Ked'Nar class;null;Class A
+Claude Gable;null;Claude
+The Savage Empire (Starship Exeter episode);null;The Empire Man
+Alaska;Alaska;Alaska
+Star Trek: G;null;Star Trek
+Yamato;Yamato;Yamato
+Firhel;null;null
+Prenkar;null;null
+USS Fredrickson (NCC-42111);USS Fredrickson;USS Fredrickson  NCC 42111 
+Cyberware;null;null
+Maria de la Soledad Ibanez y Bermudo;null;De la Fuego
+Bruce Maddox;Bruce Maddox;Bruce Maddox
+Penelope Koh;null;Penelope Betances
+Alexander Central High School;null;Mogadishu Central High School
+Star Trek;Star Trek;Star Trek
+Nolotai;Nolotai;Nolotai
+USS Temeraire (NCC-1846);null;USS Temeraire  NCC 65387 
+American Civil War;American Civil War;American Civil War
+Bridge Officer's Test;null;Borg Bridge Officer 
+
+Result;Precision;Recall;F1-score;Support
+2238;1.0;1.0;1.0;1
+A and A officer;0.0;0.0;0.0;0
+Alaska;1.0;1.0;1.0;1
+American Civil War;1.0;1.0;1.0;1
+Borg Bridge Officer ;0.0;0.0;0.0;0
+Bruce Maddox;1.0;1.0;1.0;1
+Class A;0.0;0.0;0.0;0
+Claude;0.0;0.0;0.0;0
+De la Fuego;0.0;0.0;0.0;0
+Drone;0.0;0.0;0.0;0
+Endeavour;1.0;1.0;1.0;1
+K tara;0.0;0.0;0.0;0
+Mogadishu Central High School;0.0;0.0;0.0;0
+New User Help;0.0;0.0;0.0;0
+Nolotai;1.0;1.0;1.0;1
+Penelope Betances;0.0;0.0;0.0;0
+Phase II ;0.0;0.0;0.0;0
+Saint Petersburg State University;1.0;1.0;1.0;1
+Star Trek;0.3333333333333333;1.0;0.5;1
+Swim;0.0;0.0;0.0;0
+Sydney;0.0;0.0;0.0;0
+Terrorism;1.0;1.0;1.0;1
+The Empire Man;0.0;0.0;0.0;0
+Tong;0.0;0.0;0.0;0
+USS Fredrickson;0.0;0.0;0.0;1
+USS Fredrickson  NCC 42111 ;0.0;0.0;0.0;0
+USS Temeraire  NCC 65387 ;0.0;0.0;0.0;0
+USS Toronto;0.0;0.0;0.0;0
+USS Valley Forge  NCC 1732 ;0.0;0.0;0.0;0
+USS Yorkshire;0.0;0.0;0.0;1
+USS Yorkshire  prototype ;0.0;0.0;0.0;0
+Warrior s Anthem;0.0;0.0;0.0;0
+Whole;0.0;0.0;0.0;0
+Yamato;1.0;1.0;1.0;1
+Yard;0.0;0.0;0.0;0
+comicPages;0.0;0.0;0.0;1
+father;1.0;1.0;1.0;1
+gender;1.0;1.0;1.0;1
+image;1.0;1.0;1.0;1
+insignia;1.0;1.0;1.0;1
+mother;1.0;1.0;1.0;1
+null;1.0;0.2;0.33333333333333337;30
+pages;0.0;0.0;0.0;0
+planet;1.0;1.0;1.0;1
+planetName;1.0;1.0;1.0;1
+micro avg;0.46;0.46;0.46;50
+macro avg;0.38518518518518524;0.3822222222222222;0.3740740740740741;50
+weighted avg;0.9266666666666667;0.46;0.53;50

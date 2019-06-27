@@ -1,0 +1,100 @@
+input;True;Predicted
+Sthf;None;None
+Phase II;None;Phase II
+User;None;User Wikisoft 
+publisher;publisher;publisher
+link;None;Liaison
+seriesb;series;None
+planet;planet;Planet
+died;died;died
+image2a;None;None
+beam;beam;Beam
+description;None;Variety
+children;children;Children
+affiliation;affiliation;affiliation
+series;series;Series
+armament;armament;Armament
+USS Yorkshire (prototype);None;USS Yorkshire
+Terrorism;Terrorism;Terrorism
+Saint Petersburg State University;None;Saint Petersburg
+Sydney Caldwell;None;New Sydney
+Star Trek: UFS Arcadia;None;STAR TREK
+Pro'met class;None;Class D
+Decoy drone;None;Drone
+USS Toronto (NCC-71905);None;NCC
+Ch'Tong;None;Tong Vey
+USS Valley Forge (NCC-07);None;USS Valley Forge
+Kassadae;None;None
+Endeavour;Endeavour;Endeavour
+2238;2238;2238
+Uhn'tara;None;Tara
+T'Ruveh;None;None
+Duties and Responsibilities;None;Q and A
+Ked'Nar class;None;Class D
+Claude Gable;None;Claude
+The Savage Empire (Starship Exeter episode);None;The Savage Curtain  episode 
+Alaska;Alaska;Alaska
+Star Trek: G;None;STAR TREK
+Yamato;None;USS Yamato
+Firhel;None;None
+Prenkar;None;None
+USS Fredrickson (NCC-42111);USS Fredrickson;USS Fredrickson
+Cyberware;None;None
+Maria de la Soledad Ibanez y Bermudo;None;De La Barre
+Bruce Maddox;Bruce Maddox;Bruce Maddox
+Penelope Koh;None;None
+Alexander Central High School;None;High school
+Star Trek;Star Trek;STAR TREK
+Nolotai;None;None
+USS Temeraire (NCC-1846);None;NCC
+American Civil War;American Civil War;American Civil War
+Bridge Officer's Test;Bridge Officer's Test;Bridge Officer s Test
+
+Result;Precision;Recall;F1-score;Support
+2238;1.0;1.0;1.0;1
+Alaska;1.0;1.0;1.0;1
+American Civil War;1.0;1.0;1.0;1
+Armament;0.0;0.0;0.0;0
+Beam;0.0;0.0;0.0;0
+Bridge Officer s Test;0.0;0.0;0.0;0
+Bridge Officer's Test;0.0;0.0;0.0;1
+Bruce Maddox;1.0;1.0;1.0;1
+Children;0.0;0.0;0.0;0
+Class D;0.0;0.0;0.0;0
+Claude;0.0;0.0;0.0;0
+De La Barre;0.0;0.0;0.0;0
+Drone;0.0;0.0;0.0;0
+Endeavour;1.0;1.0;1.0;1
+High school;0.0;0.0;0.0;0
+Liaison;0.0;0.0;0.0;0
+NCC;0.0;0.0;0.0;0
+New Sydney;0.0;0.0;0.0;0
+None;0.9;0.28125;0.4285714285714286;32
+Phase II;0.0;0.0;0.0;0
+Planet;0.0;0.0;0.0;0
+Q and A;0.0;0.0;0.0;0
+STAR TREK;0.0;0.0;0.0;0
+Saint Petersburg;0.0;0.0;0.0;0
+Series;0.0;0.0;0.0;0
+Star Trek;0.0;0.0;0.0;1
+Tara;0.0;0.0;0.0;0
+Terrorism;1.0;1.0;1.0;1
+The Savage Curtain  episode ;0.0;0.0;0.0;0
+Tong Vey;0.0;0.0;0.0;0
+USS Fredrickson;1.0;1.0;1.0;1
+USS Valley Forge;0.0;0.0;0.0;0
+USS Yamato;0.0;0.0;0.0;0
+USS Yorkshire;0.0;0.0;0.0;0
+User Wikisoft ;0.0;0.0;0.0;0
+Variety;0.0;0.0;0.0;0
+affiliation;1.0;1.0;1.0;1
+armament;0.0;0.0;0.0;1
+beam;0.0;0.0;0.0;1
+children;0.0;0.0;0.0;1
+died;1.0;1.0;1.0;1
+planet;0.0;0.0;0.0;1
+publisher;1.0;1.0;1.0;1
+series;0.0;0.0;0.0;2
+micro avg;0.38;0.38;0.38;50
+macro avg;0.24772727272727274;0.23366477272727273;0.237012987012987;50
+weighted avg;0.7759999999999999;0.38;0.4742857142857143;50

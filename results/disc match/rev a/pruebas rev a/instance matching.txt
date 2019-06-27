@@ -1,0 +1,195 @@
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.0028274819924263284;8.736003646001336;0.07999185899097938;8.363783687047544;0.05375080491648987;0.029599433997645974;0.013818260005791672;0.007492057004128583;8.761793871002737;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+1.6529957065358758e-06;6.168897530005779;0.007526501998654567;6.136843682004837;0.0024063440068857744;0.00021179299801588058;0.011453708008048125;0.011473220001789741;7.5556852809968404;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+7.830094546079636e-07;4.9958356149873;0.007389689999399707;4.97849117401347;0.0015573139826301485;0.0002201000024797395;0.010516727998037823;0.006494725996162742;6.014915715000825;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.003089054996962659;8.622172964009224;0.01022567400650587;7.98748369399982;0.04256976601027418;0.07530343199323397;0.013756660991930403;0.0064957819995470345;8.64775879100489;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.08241699800419156;6.760701128994697;0.010306696989573538;6.196790306945331;0.03483195502485614;0.07485412500682287;0.03862139298871625;0.007268526998814195;6.891327352001099;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+1.1209995136596262e-05;5.376969826000277;0.0048328119883080944;4.850812322998536;0.0031849399965722114;0.012882478011306375;0.1250713280023774;0.007486640999559313;6.022062570991693;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+1.6599951777607203e-06;5.392547158000525;0.005801318999147043;4.80027836599038;0.003250517009291798;0.022598228009883314;0.044038320003892295;0.007817574994987808;5.7824671089911135;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.034764660988003016;6.879584549009451;0.007884179009124637;6.32115076003538;0.020801973980269395;0.07675328200275544;0.012616957988939248;0.006250580001506023;6.935314756992739;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.0631721829995513;6.8123646230087616;0.00671998699544929;6.213226654945174;0.02487339699291624;0.048546948994044214;0.012569393002195284;0.007787590991938487;6.89817080499779;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+1.190011971630156e-06;4.683648928999901;0.007007777996477671;4.391177880985197;0.014771330010262318;0.0002480889961589128;0.011808613999164663;0.007340978001593612;4.89338163100183;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+8.649949450045824e-07;4.065038467000704;0.007027647996437736;3.9428461440111278;0.0014262040058383718;0.0001907400001073256;0.009671277992310934;0.0068121119984425604;4.218621754000196;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.00847741799952928;5.108539282999118;0.007103873009327799;5.002332987918635;0.020630965067539364;0.0005589189968304709;0.011330850989907049;0.006272789993090555;5.136475064995466;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.065364779002266;9.070092171998112;0.009307904008892365;8.88945905501896;0.023761414020555094;0.0006205670069903135;0.013530391006497666;0.007528432994149625;9.158602711002459;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.0901095409935806;7.10780243499903;0.00675214700459037;6.509686284989584;0.023401290018227883;0.05157734999374952;0.017545880997204222;0.009101571995415725;7.226353409001604;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.010078682011226192;6.210161052993499;0.009930351006914862;5.702080081959139;0.021145192033145577;0.052551166008925065;0.014936653999029659;0.0069687899958807975;6.243926519004162;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.18570891900162678;11.334625795003376;0.007517083009588532;10.473678073991323;0.026889340922934934;0.02809807300218381;0.025913297999068163;0.006926713002030738;11.555328707006993;
+0.1856894509983249;11.334622278009192;0.007775117002893239;10.47416046395665;0.026729460994829424;0.02778372300963383;0.026670713006751612;0.007006575004197657;11.55563905800227;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.009749193006427959;3.8763011270057177;0.008628687006421387;3.7281869629659923;0.018203101033577695;0.0005413710023276508;0.012940331987920217;0.006500684001366608;4.351734638999915;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.04517619499529246;6.343667962006293;0.0070093870017444715;5.741695241027628;0.0213888619618956;0.02166585301165469;0.014481699006864801;0.008780021002166905;6.41426120599499;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.089054259005934;9.622286618003272;0.011511969001730904;8.840149882991682;0.042149600965785794;0.04808913699525874;0.016605312994215637;0.008722504004254006;10.112653866002802;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.025396045006345958;7.804007934988476;0.01287088601384312;7.521543005932472;0.04459388599207159;0.0012513870024122298;0.016521261000889353;0.006962322993786074;8.150503031996777;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.06393009700695984;7.77355942199938;0.5679842749959789;6.430811387050198;0.04511638105032034;0.39709854099783115;0.0023277360014617443;0.000648325978545472;8.073690524994163;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.009090026986086741;6.291371850995347;0.8896417549985927;5.3741885712661315;0.01898103376151994;0.0006044459878467023;0.0025301050045527518;0.0006163459911476821;11.271785299002659;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.08939899600227363;8.592481586994836;0.9080865340074524;7.412153034034418;0.024044818012043834;0.02669699297985062;0.002504893986042589;0.0007147569849621505;11.541298916010419;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.02800729701993987;6.790498115005903;0.6908704050001688;6.0741852550709154;0.017898552934639156;0.0005245520151220262;0.0020530490146484226;0.0006009910139255226;8.889890693011694;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+1.3030075933784246e-06;7.31462985399412;0.18060181799228303;6.931488347006962;0.0038166169833857566;0.023903178982436657;0.0021967920183669776;0.0006019599968567491;7.732980745000532;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+1.4409888535737991e-06;7.3940482909965795;0.26651908198255114;7.119260699022561;0.0016630699683446437;0.0002332660078536719;0.03249167199828662;0.000695819006068632;7.936007623997284;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.04598171898396686;13.42368133601849;1.6254911730065942;11.762238289869856;0.022437761042965576;0.0006175550224725157;0.0026215650141239166;0.0007557779899798334;14.365233773976797;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.06441389600513503;9.706496013997821;2.2837058630248066;6.471642993099522;0.020162679022178054;0.06255373900057748;0.026585473999148235;0.0011319670011289418;10.262154234020272;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.08054544602055103;9.207060849003028;0.5726911579840817;8.604959043936105;0.019762143114348873;0.0005860159872099757;0.002238258020952344;0.0006611710123252124;9.840519219025737;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+1.1310039553791285e-06;6.551990259002196;0.12661968497559428;6.38593957098783;0.01038848899770528;0.00022186001297086477;0.0022216360084712505;0.0007116469787433743;6.80649605099461;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+1.2520176824182272e-06;7.165752700006124;0.19840610399842262;6.959033814986469;0.0015702079981565475;0.00022829000954516232;0.0021481990115717053;0.0007394060085061938;7.90885849201004;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.024839922989485785;12.057014599005925;2.1201165330130607;9.904316472937353;0.02113807707792148;0.0005485129950102419;0.0031303940049838275;0.0008183559984900057;12.118249958002707;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+1.2929958757013083e-06;8.175577091024024;0.19820971600711346;7.968970804009587;0.0014370850112754852;0.00021374499192461371;0.0024632890126667917;0.000555926002562046;8.740411228005541;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+1.181004336103797e-06;8.023900188010884;0.21544000698486343;7.799919637007406;0.0015251229924615473;0.00036034200456924736;0.002566212002420798;0.000716820009984076;8.501375407999149;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+1.1769880075007677e-06;4.906362756999442;0.13094016502145678;4.767375681985868;0.0014624260074924678;0.00019379297737032175;0.0020225610060151666;0.0005450170137919486;4.987037551007234;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.007841501996153966;11.588609178987099;1.5194800780154765;10.038037765974877;0.01976127503439784;0.0006088840018492192;0.00269189101527445;0.000758295995183289;11.887946536997333;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+1.3530079741030931e-06;5.497314662003191;0.29948121498455293;5.1897976220352575;0.0014032710168976337;0.00023117900127545;0.0022452349949162453;0.0006276819913182408;5.682579649001127;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+6.698599986521003e-05;15.132131707000099;7.022642560000122;7.16399098900024;0.11883410099994762;0.04680809199999203;0.2605331039999328;0.0008347579998826404;20.711163759999863;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.010487829998965026;6.601994017000834;1.0155478389988275;5.558899516005113;0.01825341200310504;0.0008284239993372466;0.00217236599928583;0.0006648960006714333;6.616693088999455;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.009166799998638453;6.781590871001754;0.6199272719986766;6.134126450997428;0.020203483009026968;0.0005433970000012778;0.002667500999450567;0.0008231070005422225;6.795736238000245;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.010643912999512395;6.079315065000628;0.5098003390012309;5.543487348997587;0.01784012200005236;0.0005886950002604863;0.00219981499867572;0.0005510120008693775;6.094212145999336;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.02509932799875969;6.3911130690012214;0.5804761449999205;5.606815723007458;0.021912548005275312;0.021071238999866182;0.0021321210006135516;0.0006225580000318587;6.420368613999017;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.009308733999205288;5.596034983000209;0.49482666900075856;5.0757441880050465;0.017890041999635287;0.000529183000253397;0.0022239150002860697;0.0008011490008357214;5.610520373000327;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.010325893001208897;7.016964730999462;0.6326379719994293;5.946984979002082;0.021116933996381704;0.08534828000119887;0.0022947980014578206;0.0007080669984134147;7.0327370720006;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.009039966000273125;6.1782522890007385;0.5030206329993234;5.648931674992127;0.018379508999714744;0.0005055559995525982;0.0022148959997139173;0.0004764000004797708;6.191126104000432;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.05883030599943595;6.191516973001853;0.5400344519985083;5.420706115008215;0.020473008989938535;0.01965572799963411;0.00230091399862431;0.0009017849988595117;6.256113220999396;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.008365270998183405;8.77121392400295;0.45901522200074396;8.284754120992147;0.019295380017865682;0.0007675909982935991;0.0019181730021955445;0.000564322999707656;8.784063019000314;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.02205678700192948;7.994197047999478;0.8525829050013272;6.570926199987298;0.1253883110184688;0.03082817500035162;0.002473903001373401;0.0006453869973483961;8.021177911999985;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.04342905600060476;6.555663543000264;0.5111609529994894;6.018501348000427;0.01875098600066849;0.0005205319976084866;0.002215337000961881;0.0006707610009470955;6.603894490999664;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.008942779000790324;10.925507549996837;0.7075804970008903;10.191467908996856;0.01885699299600674;0.0005438500011223368;0.003221891998691717;0.0005734500009566545;10.940614846000244;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.04455628800133127;11.371856645997468;1.8309922410007857;8.729612959006772;0.0778929549996974;0.05929063000075985;0.0024775419988145586;0.0006777339986001607;11.421595543000876;
+Parsing time;Functional matching time;Corpus time;Semantic matching time;Syntactic matching time;Ordering time;QoS matching time;SP matching time;Total matching time
+0.025402441999176517;11.195278216000588;2.0803442150026967;8.364825203996588;0.07083811701158993;0.049973640001553576;0.004133312999329064;0.0008116589997371193;16.40922180200141;

@@ -1,0 +1,115 @@
+input;True;Predicted
+wsteleplayby;teleplay;null
+series;miniseries;series
+format;formt;format
+relative;otherRelatives;relations
+registry;registry;registry
+writer;writer;writer
+sreleasemonth;null;null
+nnthreleasedinall;null;null
+conductor;director;director
+placeOfBirth;birthplace;null
+license;null;Liberty
+cover2s;null;null
+simage;image;null
+series;series;series
+The Eyes of the Beholders;The Eyes of the Beholders;The Eyes of the Beholders
+Moore;Moore;Moore
+Victoria;Victoria;Victoria
+Optolythic data rod;Optolythic data rod;Optolythic data rod
+Terrorism;Terrorism;Terrorism
+Nathan;Nathan;Nathan
+Tholian silk;Tholian silk;Tholian silk
+Endeavour;Endeavour;Endeavour
+2238;2238;2238
+Alaska;Alaska;Alaska
+USS Fredrickson;USS Fredrickson;USS Fredrickson
+Bruce Maddox;Bruce Maddox;Bruce Maddox
+Star Trek;Star Trek;Star Trek
+Hangar 2;null;Hangar
+Genius;null;Brain
+David Opatoshu;null;David
+Star Trek games performers;null;Star Trek
+Battle of the Pyrithian Gorge;null;Battle of the Alamo
+A-7 Computer expert;null;Computer
+Tibbis;null;null
+A. Coleite;null;null
+Devonshire;null;Devonshire
+Cardassian Imps;Cardassian Imps;Cardassian Imps
+27 February;null;February
+Julian Christopher;null;Christopher
+The Art of the Deal;The Art of the Deal;The Art of the Deal
+Engramatic dissociation;null;null
+Unnamed Deep Space 9 Bajoran Militia operations division personnel;null;Unnamed Deep Space 9 personnel
+Candle;null;CD
+American Civil War;American Civil War;American Civil War
+List of Makull's species;null;List of Delta Quadrant species
+Suella Springfield;null;Springfield
+Bridge Officer's Test;null;Borg Bridge Officer 
+Killing Time;Killing Time;Killing Time
+Isn't It Romantic%3F;null;It
+Unnamed Andorian cruisers;null;Unnamed Klingon cruisers
+SS Santa Maria;SS Santa Maria;SS Santa Maria
+Sebastes mustinus;null;null
+Gideon Council Chamber;null;Chamber
+Engineering Operations;null;Engineering
+Dekora Assan;Dekora Assan;Dekora Assan
+Unnamed illusory people;null;Illusory people
+Harry Werksman;null;Harry
+
+Result;Precision;Recall;F1-score;Support
+2238;1.0;1.0;1.0;1
+Alaska;1.0;1.0;1.0;1
+American Civil War;1.0;1.0;1.0;1
+Battle of the Alamo;0.0;0.0;0.0;0
+Borg Bridge Officer ;0.0;0.0;0.0;0
+Brain;0.0;0.0;0.0;0
+Bruce Maddox;1.0;1.0;1.0;1
+CD;0.0;0.0;0.0;0
+Cardassian Imps;1.0;1.0;1.0;1
+Chamber;0.0;0.0;0.0;0
+Christopher;0.0;0.0;0.0;0
+Computer;0.0;0.0;0.0;0
+David;0.0;0.0;0.0;0
+Dekora Assan;1.0;1.0;1.0;1
+Devonshire;0.0;0.0;0.0;0
+Endeavour;1.0;1.0;1.0;1
+Engineering;0.0;0.0;0.0;0
+February;0.0;0.0;0.0;0
+Hangar;0.0;0.0;0.0;0
+Harry;0.0;0.0;0.0;0
+Illusory people;0.0;0.0;0.0;0
+It;0.0;0.0;0.0;0
+Killing Time;1.0;1.0;1.0;1
+Liberty;0.0;0.0;0.0;0
+List of Delta Quadrant species;0.0;0.0;0.0;0
+Moore;1.0;1.0;1.0;1
+Nathan;1.0;1.0;1.0;1
+Optolythic data rod;1.0;1.0;1.0;1
+SS Santa Maria;1.0;1.0;1.0;1
+Springfield;0.0;0.0;0.0;0
+Star Trek;0.5;1.0;0.6666666666666666;1
+Terrorism;1.0;1.0;1.0;1
+The Art of the Deal;1.0;1.0;1.0;1
+The Eyes of the Beholders;1.0;1.0;1.0;1
+Tholian silk;1.0;1.0;1.0;1
+USS Fredrickson;1.0;1.0;1.0;1
+Unnamed Deep Space 9 personnel;0.0;0.0;0.0;0
+Unnamed Klingon cruisers;0.0;0.0;0.0;0
+Victoria;1.0;1.0;1.0;1
+birthplace;0.0;0.0;0.0;1
+director;1.0;1.0;1.0;1
+format;0.0;0.0;0.0;0
+formt;0.0;0.0;0.0;1
+image;0.0;0.0;0.0;1
+miniseries;0.0;0.0;0.0;1
+null;0.7;0.25;0.3684210526315789;28
+otherRelatives;0.0;0.0;0.0;1
+registry;1.0;1.0;1.0;1
+relations;0.0;0.0;0.0;0
+series;0.5;1.0;0.6666666666666666;1
+teleplay;0.0;0.0;0.0;1
+writer;1.0;1.0;1.0;1
+micro avg;0.5263157894736842;0.5263157894736842;0.5263157894736842;57
+macro avg;0.43653846153846154;0.44711538461538464;0.43657219973009453;57
+weighted avg;0.7298245614035087;0.5263157894736842;0.5727916281932903;57

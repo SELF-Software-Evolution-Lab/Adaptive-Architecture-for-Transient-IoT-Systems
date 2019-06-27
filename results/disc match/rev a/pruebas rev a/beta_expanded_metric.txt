@@ -1,0 +1,136 @@
+input;True;Predicted
+MiniPlanet;null;null
+Alliance;null;Alliance
+Species;null;Species
+Character;null;type
+Smallcraft;null;null
+FederationMemberState;null;null
+Ship;null;Ship
+State;null;Country
+Conflict;null;Conflict
+Series;null;series
+Planet;null;Planet
+planetName;planetName;planetName
+father;father;father
+image;image;image
+insignia;insignia;Insignia
+gender;gender;gender
+mother;mother;mother
+commandingOfficer;null;null
+issues;null;released
+federationCouncillor;null;null
+altcoverArtist;null;null
+planet;planet;Planet
+art;null;Art Finkelstein
+styleOfAddress;null;null
+nextmb;null;null
+comicPages;pages;null
+dex;null;Dex Oberlin
+CDS Kirlak;null;CDS Vetar
+Goulash;null;Pizza
+Bremerton;null;null
+The Eyes of the Beholders;null;The Lord of the Rings
+Life support;null;Life support system
+USS Yorkshire;USS Yorkshire (prototype);USS Yorkshire
+Moore;null;Amethea Moore
+USS Midway (Sovereign class);null;USS America  Sovereign class 
+Nintendo;null;null
+Victoria;null;USS Victoria
+Soth Romar;null;Soth Na Vo
+Type IV civilization;null;Civilization
+Tama;null;Children of Tama
+Optolythic data rod;null;Data
+Terrorism;Terrorism;Terrorism
+Species 8472 mothership;null;Species 8472
+IKV Battle Leader;null;Battle
+Kal-Apton;null;Kal Dixas
+RIS Vottetus;null;RIS
+USS Wolverine;null;USS
+Kessok torpedo launcher;null;Torpedo launcher
+Ivia;null;null
+Ambassador of the Imperial Romulan State to the United Federation of Planets;null;Charter of the United Federation of Planets
+Saint Petersburg State University;Saint Petersburg State University;Saint Petersburg State University
+Nathan;null;Nathan Cross
+Tholian silk;null;Tholian
+Caligula;null;Nero
+Gorash;null;null
+Ravia;null;null
+Tseng;null;null
+Endeavour;Endeavour;Endeavour
+2238;2238;2238
+Alaska;Alaska;Alaska
+Yamato;Yamato;Yamato
+USS Fredrickson;USS Fredrickson (NCC-42111);USS Fredrickson
+Bruce Maddox;Bruce Maddox;Bruce Maddox
+Star Trek;Star Trek;Star Trek
+Nolotai;Nolotai;Nolotai
+Cardassian Imps;null;Cardassian
+The Art of the Deal;null;The Lord of the Rings
+American Civil War;American Civil War;American Civil War
+Killing Time;null;Time
+SS Santa Maria;null;Maria Django
+Dekora Assan;null;null
+
+Result;Precision;Recall;F1-score;Support
+2238;1.0;1.0;1.0;1
+Alaska;1.0;1.0;1.0;1
+Alliance;0.0;0.0;0.0;0
+American Civil War;1.0;1.0;1.0;1
+Amethea Moore;0.0;0.0;0.0;0
+Art Finkelstein;0.0;0.0;0.0;0
+Battle;0.0;0.0;0.0;0
+Bruce Maddox;1.0;1.0;1.0;1
+CDS Vetar;0.0;0.0;0.0;0
+Cardassian;0.0;0.0;0.0;0
+Charter of the United Federation of Planets;0.0;0.0;0.0;0
+Children of Tama;0.0;0.0;0.0;0
+Civilization;0.0;0.0;0.0;0
+Conflict;0.0;0.0;0.0;0
+Country;0.0;0.0;0.0;0
+Data;0.0;0.0;0.0;0
+Dex Oberlin;0.0;0.0;0.0;0
+Endeavour;1.0;1.0;1.0;1
+Insignia;0.0;0.0;0.0;0
+Kal Dixas;0.0;0.0;0.0;0
+Life support system;0.0;0.0;0.0;0
+Maria Django;0.0;0.0;0.0;0
+Nathan Cross;0.0;0.0;0.0;0
+Nero;0.0;0.0;0.0;0
+Nolotai;1.0;1.0;1.0;1
+Pizza;0.0;0.0;0.0;0
+Planet;0.0;0.0;0.0;0
+RIS;0.0;0.0;0.0;0
+Saint Petersburg State University;1.0;1.0;1.0;1
+Ship;0.0;0.0;0.0;0
+Soth Na Vo;0.0;0.0;0.0;0
+Species;0.0;0.0;0.0;0
+Species 8472;0.0;0.0;0.0;0
+Star Trek;1.0;1.0;1.0;1
+Terrorism;1.0;1.0;1.0;1
+The Lord of the Rings;0.0;0.0;0.0;0
+Tholian;0.0;0.0;0.0;0
+Time;0.0;0.0;0.0;0
+Torpedo launcher;0.0;0.0;0.0;0
+USS;0.0;0.0;0.0;0
+USS America  Sovereign class ;0.0;0.0;0.0;0
+USS Fredrickson;0.0;0.0;0.0;0
+USS Fredrickson (NCC-42111);0.0;0.0;0.0;1
+USS Victoria;0.0;0.0;0.0;0
+USS Yorkshire;0.0;0.0;0.0;0
+USS Yorkshire (prototype);0.0;0.0;0.0;1
+Yamato;1.0;1.0;1.0;1
+father;1.0;1.0;1.0;1
+gender;1.0;1.0;1.0;1
+image;1.0;1.0;1.0;1
+insignia;0.0;0.0;0.0;1
+mother;1.0;1.0;1.0;1
+null;0.9375;0.29411764705882354;0.44776119402985076;51
+pages;0.0;0.0;0.0;1
+planet;0.0;0.0;0.0;1
+planetName;1.0;1.0;1.0;1
+released;0.0;0.0;0.0;0
+series;0.0;0.0;0.0;0
+type;0.0;0.0;0.0;0
+micro avg;0.4225352112676056;0.4225352112676056;0.4225352112676056;71
+macro avg;0.2701271186440678;0.259222333000997;0.2618264609157602;71
+weighted avg;0.8846830985915493;0.4225352112676056;0.5328988858524281;71

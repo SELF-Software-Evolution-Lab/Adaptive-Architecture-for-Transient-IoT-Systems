@@ -1,0 +1,116 @@
+input	True	Predicted		
+publisher	publisher	publisher		
+series	seriesb	series		
+planet	planet	planet		
+died	died	died		
+beam	beam	beam		
+children	children	children		
+affiliation	affiliation	affiliation		
+series	series	series		
+rating	None	Rating		
+aself	None	None		
+ ndash Aself	None	None		
+orchestrator	None	artist		
+ 5B 5Bfile 5D 5DAself	None	None		
+dissolved	None	Running		
+armament	armament	armament		
+aarc0nextpart	None	None		
+aprevreleasedinall	None	None		
+The Eyes of the Beholders	None	The Lord of the Rings		
+Moore	None	Amethea Moore		
+Victoria	None	USS Victoria		
+Optolythic data rod	None	Data		
+Terrorism	Terrorism	Terrorism		
+Nathan	None	Nathan Cross		
+Tholian silk	None	Tholian		
+Endeavour	Endeavour	Endeavour		
+2238	2238	2238		
+Alaska	Alaska	Alaska		
+USS Fredrickson	USS Fredrickson (NCC-42111)	USS Fredrickson		
+Bruce Maddox	Bruce Maddox	Bruce Maddox		
+Star Trek	Star Trek	Star Trek		
+Hangar 2	None	Hangar deck		
+Genius	None	Ace		
+David Opatoshu	None	David Faust		
+Star Trek games performers	None	Star Trek		
+Battle of the Pyrithian Gorge	None	Battle of the Catalaunian Plains		
+A-7 Computer expert	None	Computer		
+Tibbis	None	None		
+A, Coleite	None	None		
+Devonshire	None	USS Devonshire		
+Cardassian Imps	None	Cardassian		
+27 February	None	Starbase 27		
+Julian Christopher	None	Christopher Chattman		
+The Art of the Deal	None	The Lord of the Rings		
+Engramatic dissociation	None	None		
+Unnamed Deep Space 9 Bajoran Militia operations division personnel	None	Category Bajoran Militia personnel		
+Candle	None	Accounting		
+American Civil War	American Civil War	American Civil War		
+List of Makull's species	None	List of Borg		
+Suella Springfield	None	Springfield University		
+Bridge Officer's Test	Bridge Officer's Test	Bridge Officer's Test		
+Killing Time	None	Time		
+Isn't It Romantic%3F	None	Putting it Together		
+Unnamed Andorian cruisers	None	Andorian		
+SS Santa Maria	None	Maria Django		
+Sebastes mustinus	None	None		
+Gideon Council Chamber	None	Detapa Council		
+Engineering Operations	None	Engineering		
+Dekora Assan	None	None		
+Unnamed illusory people	None	People		
+Harry Werksman	None	Harry Johnson		
+				
+Result	Precision	Recall	F1-score	Support
+2238	1	1	1	1
+Accounting	0	0	0	0
+Ace	0	0	0	0
+Alaska	1	1	1	1
+American Civil War	1	1	1	1
+Amethea Moore	0	0	0	0
+Andorian	0	0	0	0
+Battle of the Catalaunian Plains	0	0	0	0
+Bridge Officer's Test	1	1	1	1
+Bruce Maddox	1	1	1	1
+Cardassian	0	0	0	0
+Category Bajoran Militia personnel	0	0	0	0
+Christopher Chattman	0	0	0	0
+Computer	0	0	0	0
+Data	0	0	0	0
+David Faust	0	0	0	0
+Detapa Council	0	0	0	0
+Endeavour	1	1	1	1
+Engineering	0	0	0	0
+Hangar deck	0	0	0	0
+Harry Johnson	0	0	0	0
+List of Borg	0	0	0	0
+Maria Django	0	0	0	0
+Nathan Cross	0	0	0	0
+None	1	0,238095238	0,384615385	42
+People	0	0	0	0
+Putting it Together	0	0	0	0
+Rating	0	0	0	0
+Running	0	0	0	0
+Springfield University	0	0	0	0
+Star Trek	0,5	1	0,666666667	1
+Starbase 27	0	0	0	0
+Terrorism	1	1	1	1
+The Lord of the Rings	0	0	0	0
+Tholian	0	0	0	0
+Time	0	0	0	0
+USS Devonshire	0	0	0	0
+USS Fredrickson	0	0	0	0
+USS Fredrickson (NCC-42111)	0	0	0	1
+USS Victoria	0	0	0	0
+affiliation	1	1	1	1
+armament	1	1	1	1
+artist	0	0	0	0
+beam	1	1	1	1
+children	1	1	1	1
+died	1	1	1	1
+planet	1	1	1	1
+publisher	1	1	1	1
+series	0,5	1	0,666666667	1
+seriesb	0	0	0	1
+micro avg	0,433333333	0,433333333	0,433333333	60
+macro avg	0,32	0,324761905	0,314358974	60
+weighted avg	0,95	0,433333333	0,524786325	60
