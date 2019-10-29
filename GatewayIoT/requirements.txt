@@ -21,4 +21,4 @@ sklearn==0.0
 SPARQLWrapper==1.8.2
 xlrd==1.2.0
 onem2mlib
-urllib3==1.24.1
+urllib3==1.24.2
